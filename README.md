@@ -11,6 +11,7 @@ My final project at the bootcamp was a wine recommendation app, [Bright Toast](h
 
 Yes, currently into Python!
 
+
 <h1>Stuff I'm doing at the moment</h1>
 <p>
 👀 Learning new topics such as....
@@ -18,6 +19,8 @@ Yes, currently into Python!
   Natural Language Processing
   
   Deep Learning
+  
+  Learning how to do a proper **README** file
   
   Getting a job!
 
