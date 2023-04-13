@@ -11,13 +11,14 @@ My final project at the bootcamp was a wine recommendation app, [Bright Toast](h
 
 Yes, currently into Python!
 
-<h1 align="center">Stuff I'm doing at the moment</h1>
-<p align="center">
+<h1>Stuff I'm doing at the moment</h1>
+<p>
 👀 Learning new topics such as....
 <br><br>
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
-<img src="https://img.shields.io/badge/Data Structures-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
-<img src="https://img.shields.io/badge/Algorithms-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
+  Natural Language Processing
+  Deep Learning
+  Getting a job!
+
 </p>
 <p align="center">
 
