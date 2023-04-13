@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello friend! 👋
 
-I just finished my Le Wagon Bootcamp at **Le Wagon Mexico** 🥳 and will be adding new features to my GitHub page. Watch this space!
+I just finished the fabulous **Data Science Bootcamp* at **Le Wagon Mexico** 🥳 and will be adding new features to my GitHub page. Watch this space!
 
 
 
