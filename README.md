@@ -1,6 +1,7 @@
 ### Hello friend! 👋
 
 I just finished the fabulous **Data Science Bootcamp** at **Le Wagon Mexico** 🥳 and will be adding new features to my GitHub page. Watch this space!
+<p align="center"><img src="http://ForTheBadge.com/images/badges/built-by-hipsters.svg"></p>
 
 My final project at the bootcamp was a wine recommendation app, [Bright Toast](https://jordisod-bright-toast-brightapp-llrlza.streamlit.app/). Give it a go.
 
