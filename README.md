@@ -16,7 +16,9 @@ Yes, currently into Python!
 👀 Learning new topics such as....
 <br><br>
   Natural Language Processing
+  
   Deep Learning
+  
   Getting a job!
 
 </p>
