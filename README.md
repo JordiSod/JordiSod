@@ -5,7 +5,7 @@ I just finished the fabulous **Data Science Bootcamp** at **Le Wagon Mexico** ðŸ
 
 My final project at the bootcamp was a wine recommendation app, [Bright Toast](https://jordisod-bright-toast-brightapp-llrlza.streamlit.app/). Give it a go.
 
-## What I like to use...
+### What I like to use...
 <p>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 </p>
@@ -20,9 +20,7 @@ Yes, currently into Python!
   Natural Language Processing
   
   Deep Learning
-  
-  Learning how to do a proper **README** file
-  
+    
   Getting a job!
 
 </p>
